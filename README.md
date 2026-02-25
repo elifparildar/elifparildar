@@ -12,8 +12,8 @@
   <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:parildarelif@gmail.com">
-  <img src="https://img.shields.io/badge/Email-parildarelif%40gmail.com-7C83FD?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:elif.parildar@ozu.edu.tr">
+  <img src="https://img.shields.io/badge/Email-elif.parildar%40ozu.edu.tr-7C83FD?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -37,9 +37,9 @@ I am currently seeking **research, analytics, or consumer insights internship op
 
 ### 🛒 Consumer Decision Fatigue (Ongoing)
 Experimental study examining how **choice overload** influences:
-- decision time
-- purchase intention
-- decision satisfaction
+- decision time  
+- purchase intention  
+- decision satisfaction  
 
 **Tools & Methods:** SPSS (MANOVA/ANOVA), R (visualization), Python (data processing), Qualtrics (experiment setup)
 
@@ -47,9 +47,9 @@ Experimental study examining how **choice overload** influences:
 
 ### 📏 Gaslighting Scale Development
 Psychometric scale development including:
-- EFA (Exploratory Factor Analysis)
-- reliability testing (Cronbach’s alpha)
-- construct-focused measurement design
+- EFA (Exploratory Factor Analysis)  
+- reliability testing (Cronbach’s alpha)  
+- construct-focused measurement design  
 
 ---
 
