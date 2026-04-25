@@ -58,6 +58,21 @@ Experimental research on persuasion in digital narratives and online environment
 
 ---
 
+### 🧠 Decision Intelligence Mode (DIM) – Trendyol Innovation Project
+
+Designed a **user-controlled ranking system** to reduce decision fatigue in high-choice online shopping environments.
+
+- Developed a performance framework including **conversion, decision time, trust, and retention**
+- Proposed **adoption and scaling strategy** using product life cycle and diffusion of innovation models  
+- Analyzed key risks: **low adoption, monetization trade-offs, user complexity, and data trust**
+- Defined **success thresholds** (e.g., +2–5% conversion improvement) and category-level evaluation logic  
+- Positioned the innovation as an **ambidextrous strategy** balancing exploration and exploitation  
+
+**Focus:** Consumer behavior, decision systems, platform strategy  
+**Tools & Approach:** Behavioral reasoning, product thinking, data-driven evaluation  
+
+---
+
 ## 🧰 Technical Toolkit
 
 <div align="center">
