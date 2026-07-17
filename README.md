@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Elif%20Par%C4%B1ldar&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Psychology%20%7C%20Behavioral%20Data%20%7C%20Consumer%20Decision%20Science&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Elif%20Par%C4%B1ldar&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Consumer%20Behavior%20%7C%20Mobile%20Growth%20%7C%20Behavioral%20Analytics&descSize=18&descAlignY=55" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=7C83FD&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=90&lines=Psychology%20%2B%20Data%20%2B%20Consumer%20Behavior;Experiment%20Design%20%26%20Behavioral%20Analysis;SPSS%20%7C%20R%20%7C%20Python%20%7C%20SQL%20%7C%20Figma" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=7C83FD&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=90&lines=Consumer+Behavior+%26+Mobile+Growth;A%2FB+Testing+%26+Storefront+Optimization;SPSS+%7C+R+%7C+Python+%7C+SQL+%7C+Figma" />
 </a>
 
 <br/>
@@ -12,8 +12,12 @@
   <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:elif.parildar@ozu.edu.tr">
-  <img src="https://img.shields.io/badge/Email-elif.parildar%40ozu.edu.tr-7C83FD?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://elifparildar.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-Personal%20Website-10141d?style=for-the-badge&logo=githubpages&logoColor=white"/>
+</a>
+
+<a href="mailto:parildarelif@gmail.com">
+  <img src="https://img.shields.io/badge/Email-parildarelif%40gmail.com-7C83FD?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -22,50 +26,30 @@
 
 ## 👩🏻‍💻 About Me
 
-Hi, I’m **Elif Parıldar**, a senior Psychology student at **Özyeğin University** focused on:
+Hi, I’m **Elif Parıldar**, a Psychology Graduate (BA) from **Özyeğin University** and an incoming **Bayes Business School** MSc candidate. I bridge the gap between human psychology and data-driven growth.
 
-- 🧠 Consumer decision-making & behavioral science  
-- 🧪 Experiment design & analysis (choice overload, decision fatigue)  
-- 📊 Statistical analysis (ANOVA/MANOVA, reliability)  
-- 🎯 Turning results into clear, actionable insights  
-
-I am currently seeking **research, analytics, or consumer insights internship opportunities**.
+My focus areas include:
+- 🧠 **Consumer Behavior & Decision Science** – Understanding user friction, cognitive load, and choice paralysis.
+- 🧪 **Experimentation & A/B Testing** – Designing experimental frameworks to optimize storefront assets and user onboarding.
+- 📊 **Behavioral Analytics** – Utilizing statistical workflows to extract actionable growth and product insights.
 
 ---
 
-## 🔬 Research & Analytical Projects
+## 🔬 Key Research & Analytical Projects
 
-### 🛒 Consumer Decision Fatigue (Ongoing)
-Experimental study examining how **choice overload** influences:
-- decision time  
-- purchase intention  
-- decision satisfaction  
+### 🛒 [Consumer Decision Fatigue & Choice Architecture](https://github.com/elifparildar)
+Experimental study examining how visual cues and choice overload influence decision speed and user conversion.
+* **Impact:** Proved that strategic visual cues (like popularity badges) mitigate choice paralysis on digital platforms.
+* **Stack:** `R` (visualization), `Python` (data processing), `SPSS` (ANOVA/MANOVA), `Qualtrics`
 
-**Tools & Methods:** SPSS (MANOVA/ANOVA), R (visualization), Python (data processing), Qualtrics (experiment setup)
+### 📱 [Decision Intelligence Mode (DIM) – Storefront UX Study](https://github.com/elifparildar)
+Designed and structured a mobile storefront A/B testing concept focused on reducing cognitive load and improving decision-making flows.
+* **Impact:** Restructured app search and filter architectures, proposing metrics for conversion, retention, and trust.
+* **Stack:** `Figma`, `Product Strategy`, `UX/UI Prototyping`
 
----
-
-### 📏 Gaslighting Scale Development
-Psychometric scale development including:
-- EFA (Exploratory Factor Analysis)  
-- reliability testing (Cronbach’s alpha)  
-- construct-focused measurement design  
-
----
-
-### 💬 Digital Persuasion Study
-Experimental research on persuasion in digital narratives and online environments.
-
----
-
-### 🧠 Decision Intelligence Mode (DIM) – Trendyol Innovation Project
-
-Designed a user-controlled ranking system to reduce decision fatigue in online shopping.
-
-- Defined key metrics: conversion, decision time, trust, and retention  
-- Developed adoption strategy and scaling logic  
-- Analyzed platform risks (adoption, monetization, user complexity)  
-- Positioned as an ambidextrous innovation (exploration vs exploitation)
+### 💬 [Digital Persuasion & Success Story Effect](https://github.com/elifparildar)
+Experimental research investigating persuasion dynamics within digital narratives, accepted and presented at the **SWPA 2026 Conference**.
+* **Stack:** `Experimental Design`, `Statistical Analysis`
 
 ---
 
@@ -75,21 +59,19 @@ Designed a user-controlled ranking system to reduce decision fatigue in online s
   <img src="https://skillicons.dev/icons?i=python,r,mysql,git,github,figma&theme=dark" />
 </div>
 
-- **SPSS:** ANOVA, MANOVA, reliability analysis  
-- **R:** visualization & statistical workflows  
-- **Python:** data processing & basic modeling  
-- **SQL:** data querying  
-- **Qualtrics:** survey & experiment setup  
-- **Figma:** research storytelling & product mockups  
+<br/>
+
+* **Languages & Analytics:** Python (Pandas, Scikit-Learn), R (ggplot2, Tidying), SQL (Data Querying), SPSS (ANOVA/MANOVA/Reliability)
+* **Platforms & Tools:** Figma (UX/UI & Storefront Prototyping), Qualtrics (Experiment Setup), Advanced Excel / Google Sheets
+* **Methodologies:** Storefront Optimization, Creative A/B Testing, Keyword Research, Scale Development (EFA, Reliability Testing)
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Pursuits
 
-- Behavioral Data Science  
-- Consumer Analytics  
-- Decision Intelligence Systems  
-- Experimental Design in Digital Platforms  
+- 📈 Advanced App Store Optimization (ASO) & mobile user acquisition strategies.
+- 📊 Integrating machine learning concepts into consumer decision-making models.
+- 🚀 Preparing for my upcoming Master's journey at Bayes Business School.
 
 ---
 
