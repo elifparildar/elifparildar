@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Elif%20Par%C4%B1ldar&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Consumer%20Behavior%20%7C%20Mobile%20Growth%20%7C%20Behavioral%20Analytics&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Elif%20Par%C4%B1ldar&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Consumer%20Behavior%20%7C%20Behavioral%20Analytics%20%7C%20Experimentation&descSize=18&descAlignY=55" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=7C83FD&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=90&lines=Consumer+Behavior+%26+Mobile+Growth;A%2FB+Testing+%26+Storefront+Optimization;SPSS+%7C+R+%7C+Python+%7C+SQL+%7C+Figma" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=7C83FD&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=90&lines=Consumer+Behavior+%26+Insights;Behavioral+Analytics+%26+Experimentation;R+%7C+Python+%7C+SQL+%7C+SPSS+%7C+Figma" />
 </a>
 
 <br/>
@@ -26,29 +26,31 @@
 
 ## 👩🏻‍💻 About Me
 
-Hi, I’m **Elif Parıldar**, a Psychology Graduate (BA) from **Özyeğin University** and an incoming **Bayes Business School** MSc candidate. I bridge the gap between human psychology and data-driven growth.
+Hi, I’m **Elif Parıldar**, a Psychology Graduate (BA) from **Özyeğin University** and an incoming **Bayes Business School** MSc candidate in Marketing Strategy & Consumer Insights. 
 
-My focus areas include:
-- 🧠 **Consumer Behavior & Decision Science** – Understanding user friction, cognitive load, and choice paralysis.
-- 🧪 **Experimentation & A/B Testing** – Designing experimental frameworks to optimize storefront assets and user onboarding.
-- 📊 **Behavioral Analytics** – Utilizing statistical workflows to extract actionable growth and product insights.
+I am deeply interested in understanding how people make decisions, and applying behavioral science, experimentation, and data analytics to improve digital products and user experiences.
+
+My core focus areas include:
+- 🧠 **Consumer Behavior & Decision Science** – Analyzing cognitive load, choice architecture, and factors influencing user friction.
+- 🧪 **Experimentation & Behavioral Research** – Designing experiments and applying A/B testing principles to understand user decision-making.
+- 📊 **Behavioral Analytics** – Applying statistical analysis to interpret behavioral data and support data-informed product decisions.
 
 ---
 
 ## 🔬 Key Research & Analytical Projects
 
 ### 🛒 [Consumer Decision Fatigue & Choice Architecture](https://github.com/elifparildar)
-Experimental study examining how visual cues and choice overload influence decision speed and user conversion.
-* **Impact:** Proved that strategic visual cues (like popularity badges) mitigate choice paralysis on digital platforms.
-* **Stack:** `R` (visualization), `Python` (data processing), `SPSS` (ANOVA/MANOVA), `Qualtrics`
+An independent behavioral experiment ($N=63$) evaluating how choice volume and popularity cues influence decision speed and purchase intention.
+* **Insight:** Demonstrated that strategic visual cues (such as popularity badges) can reduce choice paralysis on digital platforms, with practical applications for user onboarding and storefront flows.
+* **Stack:** `R`, `Python`, `SPSS` (ANOVA/MANOVA), `Qualtrics`
 
-### 📱 [Decision Intelligence Mode (DIM) – Storefront UX Study](https://github.com/elifparildar)
-Designed and structured a mobile storefront A/B testing concept focused on reducing cognitive load and improving decision-making flows.
-* **Impact:** Restructured app search and filter architectures, proposing metrics for conversion, retention, and trust.
+### 📱 [Decision Intelligence Mode (DIM) – Product Strategy Case Study](https://github.com/elifparildar)
+A product concept developed for Trendyol, focusing on addressing consumer decision fatigue through structured choice architecture and personalized product discovery.
+* **Insight:** Proposed an interactive UI/UX concept and designed a Figma prototype to restructure search/filter experiences, outlining structured A/B testing approaches to evaluate future feature adoption.
 * **Stack:** `Figma`, `Product Strategy`, `UX/UI Prototyping`
 
 ### 💬 [Digital Persuasion & Success Story Effect](https://github.com/elifparildar)
-Experimental research investigating persuasion dynamics within digital narratives, accepted and presented at the **SWPA 2026 Conference**.
+An experimental study investigating narrative persuasion dynamics on digital platforms. Accepted and presented at the **SWPA 2026 Conference** and **Çiğdem Kağıtçıbaşı Festival**.
 * **Stack:** `Experimental Design`, `Statistical Analysis`
 
 ---
@@ -56,21 +58,21 @@ Experimental research investigating persuasion dynamics within digital narrative
 ## 🧰 Technical Toolkit
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,git,github,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=r,python,mysql,figma,git,github&theme=dark" />
 </div>
 
 <br/>
 
-* **Languages & Analytics:** Python (Pandas, Scikit-Learn), R (ggplot2, Tidying), SQL (Data Querying), SPSS (ANOVA/MANOVA/Reliability)
-* **Platforms & Tools:** Figma (UX/UI & Storefront Prototyping), Qualtrics (Experiment Setup), Advanced Excel / Google Sheets
-* **Methodologies:** Storefront Optimization, Creative A/B Testing, Keyword Research, Scale Development (EFA, Reliability Testing)
+* **Data & Analytics:** R (ggplot2, data tidying), Python (Pandas, data processing), SQL (Data Querying), SPSS (ANOVA/MANOVA/Reliability Testing)
+* **Design & Survey Platforms:** Figma (Prototyping & User Flows), Qualtrics (Experimental Design Setup), Advanced Excel
+* **Methodologies:** Behavioral Research, A/B Testing Principles, Scale Development (EFA, Reliability Analysis)
 
 ---
 
 ## 🎯 Current Pursuits
 
-- 📈 Advanced App Store Optimization (ASO) & mobile user acquisition strategies.
-- 📊 Integrating machine learning concepts into consumer decision-making models.
+- 📲 Learning Mobile App Store Optimization (ASO) and mobile user acquisition fundamentals.
+- 📊 Deepening my statistical toolkit to model consumer decision-making behavior.
 - 🚀 Preparing for my upcoming Master's journey at Bayes Business School.
 
 ---
